@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yassine Daouji
-- 👀 I’m interested in Data Engineering, DevOps and Cloud Computing
-- 🌱 I’m currently learning everything related to Data and DevOps
-- 💞️ I’m looking to collaborate on Data or DevOps projects
+- 🌱 I’m interested in Data Engineering, DevOps and Cloud Computing
+- 👀 I'm looking forward to collaborating on projects related to my specialty
 - 📫 Reach me at www.yassinedaouji.com
 
 <!---
