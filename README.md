@@ -1,5 +1,5 @@
 - 👋 Hi, I’m YASSINE DAOUJI
-- 🌱 I’m interested in Data Engineering, DevOps and Cloud Computing
+- 🌱 I’m interested in Data Engineering and DevOps.
 - 👀 I'm looking forward to collaborating on projects related to my specialty
 - 📫 Reach me at www.yassinedaouji.com
 
