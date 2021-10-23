@@ -1,7 +1,7 @@
 - 👋 Hi, I’m YASSINE DAOUJI, I'm certified IBM Big Data Engineer.
 - 🌱 I’m interested in Data Engineering and DevOps.
-- 👀 I'm looking forward to collaborating on projects related to my specialty
-- 📫 Reach me at www.yassinedaouji.com
+- 👀 I'm looking forward to collaborating on projects related to my specialty.
+- 📫 Reach me at www.yassinedaouji.com/.
 
 <!---
 iamyacin/iamyacin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
