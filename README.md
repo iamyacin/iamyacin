@@ -1,5 +1,5 @@
-- 👋 Hi, I’m YASSINE DAOUJI, I'm a DevOps & Data Engineer.
-- 🌱 I’m interested in Data Engineering and DevOps.
+- 👋 Hi, I’m YASSINE DAOUJI, I'm a DevOps Engineer.
+- 🌱 I’m interested in DevOps & Cloud.
 - 👀 I'm looking forward to help businesses to continuously provide value to their users in a reliable manner.
 - 📫 Reach me at https://linkedin.com/in/yassine-daouji.
 
